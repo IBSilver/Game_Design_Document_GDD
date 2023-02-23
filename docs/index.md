@@ -150,6 +150,9 @@ Also, there are some studios that have their own’s Game Pillars for all their 
 * **Endless Experiences:** One does not simply “finish” a Paradox game. Either you keep coming back for another playthrough or there is no end state at all. Paradox games provide engagement for a long time.
 
 ## GDD Examples
+In my Github repository I have included two examples of GDD that I found on the internet. You can find them in Game_Design_Document_GDD/docs/gdd_examples/. Take a look if you want:
 
+* [Runaway Studios Chris Taylor Game Design Document Sample](https://github.com/IvanBSupc/Game_Design_Document_GDD/blob/main/docs/gdd_examples/ctaylordesigntemplate.docx)
+* [Bioshock Pitch](https://github.com/IvanBSupc/Game_Design_Document_GDD/blob/main/docs/gdd_examples/BioshockPitch.pdf)
 
 ## Adaptation of the GDD to be used in our Project II subject
