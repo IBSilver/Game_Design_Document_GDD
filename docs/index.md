@@ -57,7 +57,7 @@ It is essential to accompany this section with reference images. Structure examp
 * **Description of the screen:** What is it for.
 * **Game states:** All states that need interface.
 
-![ui](https://user-images.githubusercontent.com/99950357/221015741-f3dbd10c-bf06-4a20-8101-8023d94d6148.png)
+![ui](https://user-images.githubusercontent.com/99950357/221017449-2728561d-b9a8-4b30-9bdc-3b91fc0a63f0.png)
 
 ### Levels
 Here all the contents of the levels and the objectives that the player must achieve within them are explained. We must take into account:
