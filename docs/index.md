@@ -1,5 +1,7 @@
 # Game Design Document (GDD)
 
+Hi! This page has been written by [Iván Bermúdez Sagra](http://github.com/IvanBSupc), student of [Videogame Design and Development in CITM of UPC](https://www.citm.upc.edu/esp/estudis/grau-videojocs-terrassa/).
+
 ## Introduction
 The main objective of a Game Designer is the creation and conceptual development of the video game. Things like the mechanics, the gameplay, the game experience, the story among others are the jobs of a Game Designer.
 
@@ -176,3 +178,22 @@ In my Github repository I have included two examples of GDD that I found on the 
 
 ## Conclusion
 Having a good GDD document is one of the most important things when creating a game. Not only to be able to have everything organized with your team, but also to be able to show something understandable, visual, practical and that can capture the interest of partners or investors.
+
+## Relevant Links
+**Guides to learn how to make a GDD Document:**
+* [Rubén Soler Ferrer - GUÍA PARA CREAR UN GAME DESIGN DOCUMENT](https://www.rubensolerferrer.com/guia-para-crear-un-game-design-document/)
+* [Leandro Gonzalez - How to Write a Game Design Document](https://www.gamedeveloper.com/business/how-to-write-a-game-design-document)
+* [John French - How to write a game design document (with examples)](https://gamedevbeginner.com/how-to-write-a-game-design-document-with-examples/)
+* [Video: Rafa Laguna - ¡CREA UN JUEGO! HACEMOS UN GDD (GAME DESIGN DOCUMENT)](https://www.youtube.com/watch?v=klePKklAeY8)
+
+**Information about Game Pillars:**
+* [Max Pears - Design Pillars – The Core of Your Game](https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game)
+* [Cédric - Technical Game Design: Pillars](http://technicalgamedesign.blogspot.com/2011/04/pillars.html)
+* [Cédric - Technical Game Design: Unique Selling Points](http://technicalgamedesign.blogspot.com/2011/04/unique-selling-point.html)
+* [Oriol de Dios - Game Design Pillars](https://orioldedios.github.io/Game-Design-Pillars/)
+* [David Benages (Divangus in Github) - Game Pillars](https://divangus.github.io/GamePillars/)
+
+**GDD & Game Pillars examples:**
+* [Runaway Studios Chris Taylor Game Design Document Sample](https://github.com/IvanBSupc/Game_Design_Document_GDD/blob/main/docs/gdd_examples/ctaylordesigntemplate.docx)
+* [Bioshock Pitch](https://github.com/IvanBSupc/Game_Design_Document_GDD/blob/main/docs/gdd_examples/BioshockPitch.pdf)
+* [Paradox Interactive Game Pillars](https://www.paradoxinteractive.com/our-company/our-business/game-pillars)
