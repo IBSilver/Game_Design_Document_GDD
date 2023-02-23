@@ -1,5 +1,5 @@
 # Game Design Document (GDD)
-
+Styles: Minima, Slate, Cayman
 ## Description
 This page was generated for the Project II subject. This page tries to explain how to create a GDD, main topics to cover, game pillars and some other things related to Game Design Document (GDD).
 
