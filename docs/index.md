@@ -195,6 +195,6 @@ Having a good GDD document is one of the most important things when creating a g
 * [David Benages (Divangus in Github) - Game Pillars](https://divangus.github.io/GamePillars/)
 
 **GDD & Game Pillars examples:**
-* [Runaway Studios Chris Taylor Game Design Document Sample](https://github.com/IvanBSupc/Game_Design_Document_GDD/blob/main/docs/gdd_examples/ctaylordesigntemplate.docx)
-* [Bioshock Pitch](https://github.com/IvanBSupc/Game_Design_Document_GDD/blob/main/docs/gdd_examples/BioshockPitch.pdf)
+* [Runaway Studios Chris Taylor Game Design Document Sample](https://www.runawaystudios.com/articles/chris_taylor_gdd.php)
+* [Bioshock Pitch](https://www.systemshock.org/index.php?topic=2121.0)
 * [Paradox Interactive Game Pillars](https://www.paradoxinteractive.com/our-company/our-business/game-pillars)
