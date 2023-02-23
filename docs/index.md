@@ -3,6 +3,8 @@
 ## Introduction
 The main objective of a Game Designer is the creation and conceptual development of the video game. Things like the mechanics, the gameplay, the game experience, the story among others are the jobs of a Game Designer.
 
+![intro](https://user-images.githubusercontent.com/99950357/221015202-d5bd6f33-6760-40d4-8399-1ad78b0ff4c4.PNG)
+
 A game designer must have some fundamental skills:
 * Define the game experience
 * Design the systems & mechanics
@@ -18,6 +20,8 @@ A Game Design Document (GDD) is a document that explains how a specific video ga
 The main purpose of a game design document is to communicate the details of your project to either yourself, or to other people, such as team members, publishers or people who will be playing your game, as part of a crowdfunding campaign or early access product.
 
 Put simply, it’s the tool that you’ll use to manage and develop the concept of what your game is, how it’s supposed to work and how it will be built.
+
+![gdd](https://user-images.githubusercontent.com/99950357/221015125-dff5ea97-902a-40ff-80f6-c89ee7236cb9.png)
 
 ## How to create a GDD
 When you write your GDD, the most important thing is to think about what you need first. Otherwise, it can be extremely difficult to know what it should contain or how detailed it should be.
@@ -53,6 +57,8 @@ It is essential to accompany this section with reference images. Structure examp
 * **Description of the screen:** What is it for.
 * **Game states:** All states that need interface.
 
+![ui](https://user-images.githubusercontent.com/99950357/221015741-f3dbd10c-bf06-4a20-8101-8023d94d6148.png)
+
 ### Levels
 Here all the contents of the levels and the objectives that the player must achieve within them are explained. We must take into account:
 
@@ -64,8 +70,12 @@ Here all the contents of the levels and the objectives that the player must achi
 * **Items:** Special objects with which you can interact.
 * **Music and sound FX**
 
+![levels](https://user-images.githubusercontent.com/99950357/221015793-d595d30d-61d2-458f-82a8-2572bea0ca9b.PNG)
+
 ### Game progress
 Through a flowchart it shows how the game evolves and the different levels. If the game cannot be represented with a diagram, you have to find the best way to describe the progress visually.
+
+![flow](https://user-images.githubusercontent.com/99950357/221015951-7a78d48f-a7be-400c-939e-7869a00b4572.png)
 
 ### Characters
 The following point describes the characters that appear in the game and their characteristics. The same must be repeated for the enemies, bosses and antagonists. Use the information you consider relevant.
@@ -116,6 +126,8 @@ When starting to design a game, the first step to take is to establish some para
 
 The ideal is to define as game pillars a list of 3 to 5 key concepts (for example: story, exploration, etc...).
 
+![pillars](https://user-images.githubusercontent.com/99950357/221016015-c2c65e2f-4659-49d5-ab65-bec60ca7e77d.PNG)
+
 ### Why are they necessary?
 Having a few key concepts keep the game consistent. They help the team to understand how the project will unfold and make it easier and more accurate for them to understand how it should be done. These themes and aspects are useful for creating a cohesive project and limiting it.
 
@@ -134,11 +146,15 @@ Let's see some examples of video game Game Pillars:
 * **Options:** This game is praised all around for a number of options that are given to the player. From multiple ways to solve puzzles to the combat scenarios or how the player makes their way around the world. Anything the player can think of in terms of trying, the most likely will be able to do it. Compared to most games, there is no one way to solve the issues which is laid in front of the player.
 * **Combat:** This could be considered as one of the minor pillars of this game. Still, it's a mainstay since that's how you interact with most creatures and different types of enemies.
 
+![botw](https://user-images.githubusercontent.com/99950357/221016050-4ec5f530-e61f-4598-a851-e46d2ea692af.png)
+
 #### The Last of Us
 * **Crafting:** Ammo is scarce, so to distract or cause a higher amount of damage to one’s foes it is better to use items populating the world. This works in unison with the environmental story telling of how this is not many resources left in this world.
 * **Story:** The Last of Us is a linear game which is heavily narrative lead, they want everything to tie in with the story as mentioned with crafting. The game focuses on the story of the two main characters rather than the player’s own story.
 * **AI partners:** The game is all about building a relationship between the player’s character with the AI partner Ellie and other partners you meet throughout your journey.
 * **Stealth:** Combat is used in this game, but players are encouraged to play more stealthily. Because if you were to run and gun then the game would make your life extremely difficult.
+
+![tlou](https://user-images.githubusercontent.com/99950357/221016185-0dc56608-e875-4954-b4a2-d53392a480e1.png)
 
 #### Paradox Interactive
 Also, there are some studios that have their own’s Game Pillars for all their videogames, for example [Paradox Interactive](https://www.paradoxinteractive.com/our-company/our-business/game-pillars).
@@ -147,6 +163,8 @@ Also, there are some studios that have their own’s Game Pillars for all their 
 * **Inviting:** Paradox games have compelling themes with a clear promise. Players are enticed to make the effort of learning our games. (Which are approachable enough to keep players engaged, onboarding them in their worlds and gameplay systems in a smooth and rewarding way.)
 * **Cerebral:** Paradox games challenge the player’s mind before their reflexes. Incredible depth rewards the player’s curiosity and intelligence. Our games are hard to master; there is always more to discover. Moreover, players can “nerd out” on the themes and subject matters even when not playing.
 * **Endless Experiences:** One does not simply “finish” a Paradox game. Either you keep coming back for another playthrough or there is no end state at all. Paradox games provide engagement for a long time.
+
+![paradox-interactive](https://user-images.githubusercontent.com/99950357/221016252-03a52afe-8aca-456d-8c23-398a31535eaa.png)
 
 ## GDD Examples
 In my Github repository I have included two examples of GDD that I found on the internet. You can find them in Game_Design_Document_GDD/docs/gdd_examples/. Take a look if you want:
