@@ -1,5 +1,5 @@
 # Game Design Document (GDD)
-Styles: Minima, Slate, Cayman
+
 ## Introduction
 The main objective of a Game Designer is the creation and conceptual development of the video game. Things like the mechanics, the gameplay, the game experience, the story among others are the jobs of a Game Designer.
 
@@ -43,8 +43,7 @@ You can include a technical script that helps to carry out the audiovisual conte
 Explain the mechanics of your game, what the player can and cannot do. Apart from this, it establishes another points like: camera type, controls, levels, score, skills, battle system and other possible points.
 
 ### Game states and interface
-Explain where the player is at all times. Game state should be presented in a diagram showing the different types of state screens like: Title screen, save screen,  
-pause screen, configuration screen, etc...
+Explain where the player is at all times. Game state should be presented in a diagram showing the different types of state screens like: Title screen, save screen, pause screen, configuration screen, etc...
 
 You also have to describe and show how the game interface is. The interface must present a stylistic relationship related to the game, the levels, the graphics, the gameplay, the art used... All the game states must have their own interface.
 
@@ -141,8 +140,8 @@ Let's see some examples of video game Game Pillars:
 * **AI partners:** The game is all about building a relationship between the player’s character with the AI partner Ellie and other partners you meet throughout your journey.
 * **Stealth:** Combat is used in this game, but players are encouraged to play more stealthily. Because if you were to run and gun then the game would make your life extremely difficult.
 
-#### Paradox Studios
-Also, there are some studios that have their own’s Game Pillars for all their videogames, for example Paradox Interactive.
+#### Paradox Interactive
+Also, there are some studios that have their own’s Game Pillars for all their videogames, for example [Paradox Interactive](https://www.paradoxinteractive.com/our-company/our-business/game-pillars).
 * **Agency:** Paradox games give players the freedom to live out their fantasies, create their own stories and express themselves and their creativity. From customization options, game rules and modding to emergent stories and rewriting history, Paradox titles are not linear, plot driven experiences.
 * **Living Worlds:** Paradox games feature dynamic, reactive worlds where other forces seem to be pursuing their own goals beyond the control of players. No two games will be the same and players will experience new stories every time they play.
 * **Inviting:** Paradox games have compelling themes with a clear promise. Players are enticed to make the effort of learning our games. (Which are approachable enough to keep players engaged, onboarding them in their worlds and gameplay systems in a smooth and rewarding way.)
