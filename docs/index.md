@@ -175,6 +175,7 @@ In my Github repository I have included two examples of GDD that I found on the 
 * [Bioshock Pitch](https://github.com/IvanBSupc/Game_Design_Document_GDD/blob/main/docs/gdd_examples/BioshockPitch.pdf)
 
 ## Adaptation of the GDD to be used in our Project II subject
+I prepared a GDD document template to be able to use in our project subject: [Template](https://github.com/IvanBSupc/Game_Design_Document_GDD/blob/main/templates/GDD.md)
 
 ## Conclusion
 Having a good GDD document is one of the most important things when creating a game. Not only to be able to have everything organized with your team, but also to be able to show something understandable, visual, practical and that can capture the interest of partners or investors.
