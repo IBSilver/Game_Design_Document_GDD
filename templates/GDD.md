@@ -54,7 +54,7 @@
 
 Image
 
-## Game progress (Gam flow)
+## Game progress (Game flow)
 
 
 ## Characters
