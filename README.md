@@ -27,3 +27,9 @@ Take a look at some of my projects I've worked on:
 * [Runaway Studios Chris Taylor Game Design Document Sample](https://www.runawaystudios.com/articles/chris_taylor_gdd.php)
 * [Bioshock Pitch](https://www.systemshock.org/index.php?topic=2121.0)
 * [Paradox Interactive Game Pillars](https://www.paradoxinteractive.com/our-company/our-business/game-pillars)
+
+**GDD Documents from previous games from Project subject:**
+* [NoNameBros - Split Duty](https://github.com/Ar-Ess/Split_Duty_NoNameBros/wiki/1.-Game-Design-Document)
+* [ChillChiliStudio - Order227](https://github.com/ChillChiliStudio/Order227/wiki/Game-Design-Document)
+* [Black Pearl Games - The Last Purifier](https://github.com/Project2CITM/The-last-purifier/wiki/Game-Design-Document)
+* [Nautilus Studios - Imperial Fall](https://github.com/VoZeS/NautilusStudios-ProjectII_RPG/wiki/Game-Design-Document)
