@@ -8,6 +8,7 @@ This page has been written by [Iván Bermúdez Sagra](http://github.com/IvanBSup
 Take a look at some of my projects I've worked on:
 * **Project I:** [Windjammers](https://github.com/PauM4/Windjammers)
 * **Game Development:** [Cyberpunk](https://github.com/IvanBSupc/GameDevelopment)
+* **Project II:** [Guardians of Zenith](https://github.com/Lluc-Studios/Guardians-of-Zenith)
 
 ## Relevant Links 
 **Guides to learn how to make a GDD Document:**
