@@ -1,6 +1,6 @@
 # Game Design Document (GDD)
 
-Hi! This page has been written by [Iván Bermúdez Sagra](http://github.com/IvanBSupc), student of [Videogame Design and Development in CITM of UPC](https://www.citm.upc.edu/esp/estudis/grau-videojocs-terrassa/).
+Hi! This page has been written by [Iván Bermúdez Sagra](http://github.com/IBSilver), student of [Videogame Design and Development in CITM of UPC](https://www.citm.upc.edu/esp/estudis/grau-videojocs-terrassa/).
 
 ## Introduction
 The main objective of a Game Designer is the creation and conceptual development of the video game. Things like the mechanics, the gameplay, the game experience, the story among others are the jobs of a Game Designer.
